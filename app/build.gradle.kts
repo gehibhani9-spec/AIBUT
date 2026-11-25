@@ -6,7 +6,7 @@ android {
     namespace = "com.ultron.ai"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.ultron.ai"
+        applicationId = "com.gehibhani.ultron"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
