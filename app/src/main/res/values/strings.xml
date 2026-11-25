@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ultron</string>
+    <string name="acc_desc">Lets Ultron read the screen and tap, type and scroll for you when you give voice commands.</string>
+</resources>
